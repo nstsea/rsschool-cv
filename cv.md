@@ -81,3 +81,20 @@ console.log(`Сравните индекс массы тела обоих уча
     .form-group:last-of-type {
       margin-bottom: 20px; } }
 ```
+********* 
+### experience: 
+I have practical experience in layout and adaptation of sites, as well as adding simple animation using CSS. I can make up according to the finished layout. I also do a complete optimization of the site during the development process.
+********* 
+### education:
+**specialty:** interior design, reconstruction and restoration of civil buildings and structures.
+
+**qualification:** Design Technician
+
+_additional courses:_
+* HTML, CSS course, site layout, [WebCademy.ru](https://www.youtube.com/@WebCademy)
+* [RS - school](https://app.rs.school/)
+* Self-study
+********* 
+### english language level: 
+**B2** - Intermediate level. I can understand and write using a dictionary or translator.
+
