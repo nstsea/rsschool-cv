@@ -20,7 +20,20 @@ independence, responsibility for result of the work, fast learning ability, open
 * HTML5, CSS3, site layout.
 * Block, cross-browser, adaptive layout for mobile devices, code semantics, validity, CSS preprocessor SCSS.
 * Working with graphic editors Figma, Photoshop at an advanced level.
+
 ********* 
 ### Code samples:
+``` let weigthOfMark = 75;
+let heightOfMark = 182;
+let heightOfMarkMeters = heightOfMark / 100;
+let bmiOfMark = weigthOfMark / (heightOfMarkMeters * heightOfMarkMeters);
+console.log(`Индекс массы тела Марка: ${bmiOfMark}`);
 
+let weigthOfBob = 89;
+let heightOfBob = 170;
+let heightOfBobMeters = heightOfBob / 100;
+let bmiOfBob = weigthOfBob / (heightOfBobMeters * heightOfBobMeters);
+console.log(`Индекс массы тела Боба: ${bmiOfBob}`);
 
+let mbiComparison = bmiOfMark > bmiOfBob;
+console.log(`Сравните индекс массы тела обоих участников. Является ли значение индекса Марка больше, чем у Боба? - ${mbiComparison} `); ```
