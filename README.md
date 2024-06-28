@@ -1,1 +1,1 @@
-(Stage 0. Creating CV - file)[https://nstsea.github.io/rsschool-cv/cv]
+https://nstsea.github.io/rsschool-cv/cv
