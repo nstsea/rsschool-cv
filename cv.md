@@ -7,7 +7,6 @@
 * github: [@nstsea](https://github.com/nstsea)
 * inst: [@nstsee](https://www.instagram.com/nst.see/)
 * tg: [@nstseee](https://t.me/nstseee)
-
 * location: Kazakhstan, Almaty city
 ---
 ### about me:
